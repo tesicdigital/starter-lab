@@ -1,50 +1,11 @@
-# Starter Lab 🚀
+# Starter Lab
 
-Welcome to my experimental workspace where I build, test and ship ideas.
+A space where I experiment, build ideas and work on projects in public.
 
-## About
+Currently using this repository for testing workflows, exploring AI tools, prototyping ideas and improving my development process.
 
-This repository serves as a public lab for experiments in:
+Working mostly with Webflow, JavaScript, Python, GitHub and modern AI tooling.
 
-- AI-assisted development  
-- Web development  
-- Automation  
-- Product prototyping  
-- Creative engineering
+Some projects and experiments will land here soon.
 
-## Current Focus
-
-- Building with AI tools  
-- Exploring developer workflows  
-- Creating public projects  
-- Learning in public
-
-## Tech Stack
-
-- JavaScript  
-- Node.js  
-- Python  
-- Webflow  
-- Git & GitHub  
-- Claude  
-- ChatGPT  
-- Cursor
-
-## Roadmap
-
-- [ ] Launch first meaningful project  
-- [ ] Publish experiments regularly  
-- [ ] Build open-source utilities  
-- [ ] Grow public GitHub portfolio
-
-## Status
-
-![Status](https://img.shields.io/badge/status-building-blue)
-![AI](https://img.shields.io/badge/AI-powered-black)
-![Open Source](https://img.shields.io/badge/open--source-yes-success)
-
----
-
-### Philosophy
-
-Build. Test. Learn. Ship.
+Build. Learn. Ship.
